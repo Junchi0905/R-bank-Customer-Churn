@@ -1,5 +1,5 @@
 # R-bank-Customer-Churn
-Build a logstic regression and decision tree models to figure out reasons of customer churn.
+Build a logstic regression and decision tree models to figure out reasons of customer churn in R.
 
 # Result
 * The bank should hold promotional activities to the old, particularly age over 43. 
