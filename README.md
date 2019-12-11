@@ -11,4 +11,4 @@ Build a logstic regression and decision tree models to figure out reasons of cus
 ![image](https://github.com/Junchi0905/R-bank-Customer-Churn/blob/master/Feature%20Selection.png)
 
 # Decision Tree Visualization:
-![image](https://github.com/Junchi0905/R-bank-Customer-Churn/blob/master/Tree.png)
+![image](https://github.com/Junchi0905/R-bank-Customer-Churn/blob/master/Tree.jpg)
