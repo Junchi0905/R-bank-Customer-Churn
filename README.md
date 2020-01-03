@@ -1,7 +1,7 @@
 # R-bank-Customer-Churn
 Build a logstic regression and decision tree models to figure out reasons of customer churn in R.
 
-Data is from Kaggle. https://www.kaggle.com/aakash50897/churn-modellingcsv
+Data is from Kaggle https://www.kaggle.com/aakash50897/churn-modellingcsv
 
 # Result
 * The bank should hold promotional activities to the old, particularly age over 43. 
